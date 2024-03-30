@@ -1,5 +1,5 @@
 title: Iman Abbasi rami
 logo: /assets/imgages/sample.jpeg
-#description: text below image
+description: This is just a sample image!
 #show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
